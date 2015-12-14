@@ -1,32 +1,31 @@
-# YAX-Coming-soon-Jekyll-Template
-Free Bootstrap HTML5 CSS3 Responsive Coming soon  Jekyll template
+# jekyll-qck-theme
 
-Designed by : Ilya B.  
-url: https://www.behance.net/gallery/18421675/Free-Bootstrap-Psd-Coming-Soon-Template  
+A simple and customizable theme for Jekyll.
 
-Converted PSD to HTML/CSS by:  
-Morteza Aghili  
-bio: http://mortezaaghili.github.io/  
+## Features
 
-Adpated to Jekyll by [yonojoy](https://github.com/yonojoy)
+* A lot of Markdown features
+* GitHub flavored emoji :+1:
+* Tags list page
+* Monthly Archives page
+* Search feature without any Jekyll plugins
+* `<!--more-->` tag feature
+* Anchor links for each headings
+* Sticky side nav
+* Responsive
+* OGP ready
+* Share buttons ready
 
-## Usage
-Edit `index.md` to contain your message.
+## Getting started
 
-Edit `_config.yml` and add the following params:
+1. [Fork me](https://github.com/qckanemoto/jekyll-qck-theme/fork)
+2. Rename the repository from `jekyll-qck-theme` to `{username}.github.io` ([learn more](https://pages.github.com/))
+3. Modify `_config.yml`
+4. Modify `_sass/base/_variables.scss` if you need to change colors or font sizes
+5. Add new posts into `_posts/` :smiley:
 
-* `countdown` to contain the target date in GMT/UTC
-* `owner` to contain infos about the site owner.
+## Demo
 
-That's it.
+You can see live demo at below:
 
-## Installation
-
-Requires [Jekyll](http://jekyllrb.com/) 3+. 
-
-If you are creating a new Jekyll site using Skinny Bones following these steps:
-
-1. Download and unzip.
-2. Run `bundle install` to install all dependencies 
-3. Update `_config.yml` and `index.md` as described above.
-
+* http://qckanemoto.github.io/jekyll-qck-theme/
