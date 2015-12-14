@@ -73,9 +73,9 @@ exclude:
 - LICENSE
 - README.md
 - vendor
-color1: 7E5686
-color2: A5AAD9
-color3: E8F9A2
-color4: F8A13F
-color5: BA3C3D
-theme_num: 95
+color1: '"#A7C5BD"'
+color2: '"#E5DDCB"'
+color3: '"#EB7B59"'
+color4: '"#CF4647"'
+color5: '"#524656"'
+theme_num: '62'
